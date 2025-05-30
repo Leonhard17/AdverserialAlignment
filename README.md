@@ -48,7 +48,6 @@ This project explores:
 
 For feedback, ideas, or collaboration:
 - Email: leonhardwaibl@gmail.com
-- GitHub: [Leonhard17](https://github.com/Leonhard17)
 
 ---
 
