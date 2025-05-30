@@ -11,7 +11,6 @@ The project is designed and developed independently by Leonhard Waibl as part of
 - Predicts model uncertainty using internal attention activations
 - GNN-based encoding of attention maps
 - Transformer encoder aggregation for token-level reasoning states
-- Log-cosh loss for stable uncertainty regression
 - Initial prototype focused on mathematical reasoning tasks
 
 ---
@@ -30,7 +29,6 @@ The project is designed and developed independently by Leonhard Waibl as part of
 
 - Python, PyTorch, Hugging Face Transformers, JAX, NumPy
 - Graph Neural Networks (GNNs)
-- Log-cosh loss for uncertainty regression
 
 ---
 
